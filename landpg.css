@@ -1,0 +1,13 @@
+.bg-pg{
+    background-image: url("https://www.adventurealternative.com/media/1789/himalaya-evening.jpg?height=0&width=0&quality=&mode=Crop&center=0.48120300751879697,0.57&bgcolor=");
+    height: 100vh;
+    background-size: cover;
+}
+.hello{
+    font-family: tahoma;
+    color: white;
+    font-weight: bold;
+    font-size: 50px ;
+    text-align: center;
+    padding-top: 300px;
+}
